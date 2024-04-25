@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T14:22:03.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="5etrniBwwztFoQisN_l8" version="24.3.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-25T14:28:30.496Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Sk1sVzuof2hPVABJ8uUb" version="24.3.0" type="github" pages="4">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1434" dy="756" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="1">
       <root>
@@ -99,7 +99,7 @@
         <mxCell id="VAAvBBCM2MWCgtgh654a-4" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;&amp;lt;include&amp;gt;&amp;gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rotation=15;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="506" y="472" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VAAvBBCM2MWCgtgh654a-8" value="Systéme de siteweb" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;width=265;height=24;fillStyle=solid;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+        <mxCell id="VAAvBBCM2MWCgtgh654a-8" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Systéme de siteweb&lt;/b&gt;&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;width=265;height=24;fillStyle=solid;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="225" y="58" width="573" height="582" as="geometry" />
         </mxCell>
       </root>
@@ -210,7 +210,7 @@
         <mxCell id="RShPwr2YoXQojWD24crY-4" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rotation=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="395" y="495" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aELsMhWsHU3bKW9KblnM-3" value="Systéme de siteweb" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;width=289;height=30;fillStyle=solid;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+        <mxCell id="aELsMhWsHU3bKW9KblnM-3" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Systéme de siteweb&lt;/b&gt;&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;width=289;height=30;fillStyle=solid;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="216" y="36" width="588" height="605" as="geometry" />
         </mxCell>
       </root>
@@ -258,7 +258,7 @@
         <mxCell id="_Wpxnf_Ayy9y97n_Q4Vp-24" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;La gestion des comptes utilisateurs&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillStyle=solid;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="_Wpxnf_Ayy9y97n_Q4Vp-1">
           <mxGeometry x="305" y="259" width="150" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="_Wpxnf_Ayy9y97n_Q4Vp-26" value="Systéme de siteweb" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;width=289;height=30;fillStyle=solid;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="_Wpxnf_Ayy9y97n_Q4Vp-1">
+        <mxCell id="_Wpxnf_Ayy9y97n_Q4Vp-26" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Systéme de siteweb&lt;/b&gt;&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;width=289;height=30;fillStyle=solid;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="_Wpxnf_Ayy9y97n_Q4Vp-1">
           <mxGeometry x="247" y="36" width="569" height="329" as="geometry" />
         </mxCell>
         <mxCell id="VFVeifRaPx42081z0TlI-1" style="rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.9;entryY=0.825;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="_Wpxnf_Ayy9y97n_Q4Vp-1" source="_Wpxnf_Ayy9y97n_Q4Vp-12" target="_Wpxnf_Ayy9y97n_Q4Vp-4">
